@@ -1,4 +1,5 @@
-📊 Análisis de Evasión de Clientes (Churn) – Telecom
+📊 Análisis de Evasión de Clientes – TelecomX
+
 📌 Descripción
 
 Este proyecto analiza la evasión de clientes (Churn) en una empresa de telecomunicaciones utilizando Python.
